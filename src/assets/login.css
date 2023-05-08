@@ -1,0 +1,31 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.card h2{
+    color: #8CBF3F;
+    margin: 0 0 1rem 0;
+}
+
+.inputs{
+    display: flex;
+    flex-direction: column;
+    background-color: #F2F2F2;
+    padding: 2rem;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.inputs input{
+    margin-top: .5rem;
+    padding: .5rem;
+}
+
+.btn{
+    background-color: #8CBF3F;
+    color: #F2F2F2;
+    border: none;
+    border-radius: 7px;
+}
